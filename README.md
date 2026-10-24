@@ -4,7 +4,7 @@ A reproducible machine learning pipeline that predicts whether a loan applicant 
 
 **Result:** a tuned Random Forest reached **77% accuracy** on unseen test data, against a 70% baseline.
 
-📄 **Report:** [HTML](https://dsci-310-2024.github.io/DSCI310_Group-12_Credit-Risk-Classification/reports/credit_risk_report.html) | [PDF](reports/credit_risk_report.pdf)
+📄 **Report:** [HTML](https://github.com/ShahrukhP15/Credit-Risk-Classification/blob/main/reports/credit_risk_report.html) | [PDF](reports/credit_risk_report.pdf)
 
 ## Highlights
 - **One-command pipeline:** a Makefile runs every step, from downloading the data to rendering the final report.
