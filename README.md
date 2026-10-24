@@ -1,5 +1,7 @@
 # Credit Risk Classification
 
+[![PyPI](https://img.shields.io/pypi/v/pycredits?label=PyPI%3A%20pycredits)](https://pypi.org/project/pycredits/) ![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI-2088FF?logo=githubactions&logoColor=white) ![Quarto](https://img.shields.io/badge/Quarto-report-75AADB?logo=quarto&logoColor=white)
+
 A reproducible machine learning pipeline that predicts whether a loan applicant is a good or bad credit risk, using the UCI Statlog (German Credit) dataset.
 
 **Result:** a tuned Random Forest reached **77% accuracy** on unseen test data, against a 70% baseline.
